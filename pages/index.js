@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className="">
-        <h1 className={styles.title}>
+        <h1 className="font-mono text-lime-500">
           Eliezer, how far? Has Pops gone out? {/*<a href="https://nextjs.org">Next.js!</a>*/}
         </h1>
 
