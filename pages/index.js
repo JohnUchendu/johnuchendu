@@ -7,7 +7,7 @@ export default function Home() {
     <div className="bg-orange-200">
       <Head>
         <title>John's message to Sydney</title>
-        <meta name="description" content="There is progress bro" />
+        <meta name="description" content="There is progress" />
         <link rel="icon" href="" />
       </Head>
 
@@ -37,7 +37,7 @@ export default function Home() {
 
       </main>
 
-      <footer className="font-mono text-neutral-700 text-center text-3xl">
+      <footer className="{styles.footer}">
         {/*<a
           href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
           target="_blank"
