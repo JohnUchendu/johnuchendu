@@ -4,7 +4,7 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-    <div className="bg-blue-400">
+    <div className="bg-orange-500">
       <Head>
         <title>John message to Elisky</title>
         <meta name="description" content="This is mad cruise bro" />
