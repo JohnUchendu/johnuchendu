@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="bg-orange-200">
       <Head>
-        <title>John messages Sydney</title>
+        <title>{`John's`} message to Sydney</title>
         <meta name="description" content="There is progress" />
         <link rel="icon" href="" />
       </Head>
