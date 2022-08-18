@@ -4,14 +4,14 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-    <div className={styles.container}>
+    <div className="bg-blue-400">
       <Head>
         <title>John message to Elisky</title>
         <meta name="description" content="This is mad cruise bro" />
         <link rel="icon" href="" />
       </Head>
 
-      <main className={styles.main}>
+      <main className="">
         <h1 className={styles.title}>
           Eliezer, how far? Has Pops gone out? {/*<a href="https://nextjs.org">Next.js!</a>*/}
         </h1>
@@ -29,7 +29,7 @@ export default function Home() {
           <span className={styles.logo}>
             <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
           </span>
-  </a>*/}<p>Powered by John Uchendu sitting in yout room 0_0</p>
+  </a>*/}<p>Powered by John Uchendu sitting in the room 0_0</p>
       </footer>
     </div>
   )
