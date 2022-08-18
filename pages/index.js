@@ -4,22 +4,40 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-    <div className="bg-orange-500">
+    <div className="bg-orange-200">
       <Head>
-        <title>John message to Elisky</title>
-        <meta name="description" content="This is mad cruise bro" />
+        <title>John's message to Sydney</title>
+        <meta name="description" content="There is progress bro" />
         <link rel="icon" href="" />
       </Head>
 
       <main className="">
-        <h1 className="font-mono text-lime-500">
-          Eliezer, how far? Has Pops gone out? {/*<a href="https://nextjs.org">Next.js!</a>*/}
+        <h1 className="font-mono text-neutral-700 text-center text-3xl">
+          SYDNEY TSEHEGBAKU WHAT'S UP ?? {/*<a href="https://nextjs.org">Next.js!</a>*/}
         </h1>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
 
-                
+
       </main>
 
-      <footer className={styles.footer}>
+      <footer className="font-mono text-neutral-700 text-center text-3xl">
         {/*<a
           href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
           target="_blank"
@@ -29,7 +47,7 @@ export default function Home() {
           <span className={styles.logo}>
             <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
           </span>
-  </a>*/}<p>Powered by John Uchendu sitting in the room 0_0</p>
+  </a>*/}<p>a build by John Uchendu</p>
       </footer>
     </div>
   )
